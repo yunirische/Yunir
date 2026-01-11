@@ -1,0 +1,7 @@
+{
+  "name": "LogiShift Intelligence Dashboard",
+  "description": "A high-performance logistics management platform with real-time tracking, advanced analytics, and AI-driven supply chain optimization powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
